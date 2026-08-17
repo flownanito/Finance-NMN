@@ -13,7 +13,7 @@ Este proyecto está construido con un stack moderno y robusto:
 
 Para entrar a la aplicación de desarrollo, utiliza las siguientes credenciales de administrador:
 - **Usuario:** `flownanito`
-- **Contraseña:** `Nano15jada.`
+- **Contraseña:** `Nano15jada`
 
 > [!CAUTION]
 > Estas son credenciales por defecto para entornos de desarrollo. En producción, asegúrate de cambiar estas contraseñas en el archivo `application.properties` o inyectándolas a través de variables de entorno.
